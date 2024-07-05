@@ -29,6 +29,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.1"
+    "cheerio": "^1.0.0-rc.12",
+    "electron-squirrel-startup": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^22.12.1"
   }
 }

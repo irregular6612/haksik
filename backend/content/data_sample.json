@@ -1,0 +1,24 @@
+<ref *1> [
+    Text {
+      parent: Element {
+        parent: [Element],
+        prev: [Text],
+        next: [Text],
+        startIndex: null,
+        endIndex: null,
+        children: [Circular *1],
+        name: 'strong',
+        attribs: [Object: null prototype] {},
+        type: 'tag',
+        namespace: 'http://www.w3.org/1999/xhtml',
+        'x-attribsNamespace': [Object: null prototype] {},
+        'x-attribsPrefix': [Object: null prototype] {}
+      },
+      prev: null,
+      next: null,
+      startIndex: null,
+      endIndex: null,
+      data: '312',
+      type: 'text'
+    }
+  ]
